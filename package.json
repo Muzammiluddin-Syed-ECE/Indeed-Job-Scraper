@@ -1,0 +1,12 @@
+{
+  "name": "indeed-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "python util/WebScraper.py"
+  },
+  "author": "",
+  "license": "ISC"
+}
